@@ -1,0 +1,11 @@
+C:\Users\Shelby\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.exe
+C:\Users\Shelby\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.deps.json
+C:\Users\Shelby\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.runtimeconfig.json
+C:\Users\Shelby\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.runtimeconfig.dev.json
+C:\Users\Shelby\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.dll
+C:\Users\Shelby\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.pdb
+C:\Users\Shelby\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.csprojAssemblyReference.cache
+C:\Users\Shelby\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.AssemblyInfoInputs.cache
+C:\Users\Shelby\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.AssemblyInfo.cs
+C:\Users\Shelby\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.dll
+C:\Users\Shelby\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.pdb
